@@ -52,7 +52,7 @@ Navegue até o diretório do projeto:
   
 - Abra o arquivo index.html em um navegador web.
 
-###API
+### API
 
 A aplicação se comunica com uma API REST para realizar operações de CRUD:
 - Listar Pessoas: GET /Pessoas/rest/Pessoas/Pessoas
