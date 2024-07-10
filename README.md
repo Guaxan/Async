@@ -43,7 +43,7 @@ O arquivo 'style.css' contém os estilos para:
 
 1. Clone o repositório para sua máquina local:
   ```sh
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/Guaxan/Async.git
   ```
 Navegue até o diretório do projeto:
   ```sh
